@@ -18,7 +18,7 @@ export default function Header() {
         <div className="relative flex justify-between w-full px-4 lg:w-auto lg:static lg:block lg:justify-start">
           <a
             className="inline-block py-2 mr-4 text-4xl font-bold leading-relaxed tracking-widest text-white whitespace-nowrap"
-            href="/"
+            href="/#/"
           >
             React 部落格
           </a>{' '}
